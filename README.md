@@ -13,4 +13,4 @@
 
 |                        문제번호                         |                                문제이름                                 |                                      난이도                                       |        정민        | 장호 | 태준 | 태성 | 상협 |
 | :-----------------------------------------------------: | :---------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :----------------: | :--: | :--: | :--: | :--: |
-| <a href="https://www.acmicpc.net/problem/1089">2578</a> | <a href="https://www.acmicpc.net/problem/1089" target="_blank">빙고</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | :heavy_check_mark: |      |      |      |      |
+| <a href="https://www.acmicpc.net/problem/1089">2578</a> | <a href="https://www.acmicpc.net/problem/1089" target="_blank">빙고</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | :heavy_check_mark: |      |      |      | :heavy_check_mark: |
