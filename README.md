@@ -11,6 +11,13 @@
 
 ## 2023/01/09
 
-|                        문제번호                         |                                문제이름                                 |                                      난이도                                       |        정민        | 장호 | 태준 | 태성 | 상협 |
-| :-----------------------------------------------------: | :---------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :----------------: | :--: | :--: | :--: | :--: |
-| <a href="https://www.acmicpc.net/problem/1089">2578</a> | <a href="https://www.acmicpc.net/problem/1089" target="_blank">빙고</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | :heavy_check_mark: |      |      |      |      |
+|                        문제번호                         |                                문제이름                                 |                                      난이도                                       |        정민        |        장호        |        태준        | 태성 |        상협        |
+| :-----------------------------------------------------: | :---------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :----------------: | :----------------: | :----------------: | :--: | :----------------: |
+| <a href="https://www.acmicpc.net/problem/2578">2578</a> | <a href="https://www.acmicpc.net/problem/1089" target="_blank">빙고</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      | :heavy_check_mark: |
+
+## 2023/01/16
+
+|                         문제번호                          |                                      문제이름                                       |                                      난이도                                       | 정민 | 장호 | 태준 | 태성 | 상협 |
+| :-------------------------------------------------------: | :---------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :--: | :--: | :--: | :--: | :--: |
+|  <a href="https://www.acmicpc.net/problem/1244">1244</a>  | <a href="https://www.acmicpc.net/problem/1244" target="_blank">스위치 켜고 끄기</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |      |      |      |      |      |
+| <a href="https://www.acmicpc.net/problem/17276">17276</a> |   <a href="https://www.acmicpc.net/problem/17276" target="_blank">배열 돌리기</a>   | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |      |      |      |      |      |
