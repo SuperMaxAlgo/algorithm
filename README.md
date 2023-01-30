@@ -24,7 +24,14 @@
 
 ## 2023/01/23
 
-|                         문제번호                          |                                 문제이름                                  |                                       난이도                                       |        정민        | 장호 |        태준        | 태성 | 상협 |
-| :-------------------------------------------------------: | :-----------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :----------------: | :--: | :----------------: | :--: | :--: |
+|                         문제번호                          |                                 문제이름                                  |                                       난이도                                       |        정민        |        장호        |        태준        | 태성 |        상협        |
+| :-------------------------------------------------------: | :-----------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :----------------: | :----------------: | :----------------: | :--: | :----------------: |
 |  <a href="https://www.acmicpc.net/problem/2564">2564</a>  | <a href="https://www.acmicpc.net/problem/2564" target="_blank">경비원</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      | :heavy_check_mark: |
-| <a href="https://www.acmicpc.net/problem/16719">16719</a> | <a href="https://www.acmicpc.net/problem/16719" target="_blank">ZOAC</a>  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | :heavy_check_mark: |      | :heavy_check_mark: |      |      |
+| <a href="https://www.acmicpc.net/problem/16719">16719</a> | <a href="https://www.acmicpc.net/problem/16719" target="_blank">ZOAC</a>  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | :heavy_check_mark: |                    | :heavy_check_mark: |      |                    |
+
+## 2023/01/30
+
+|                         문제번호                          |                                   문제이름                                   |                                       난이도                                       |        정민        | 장호 | 태준 | 태성 | 상협 |
+| :-------------------------------------------------------: | :--------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :----------------: | :--: | :--: | :--: | :--: |
+| <a href="https://www.acmicpc.net/problem/15683">15683</a> |   <a href="https://www.acmicpc.net/problem/2564" target="_blank">감시</a>    | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | :heavy_check_mark: |      |      |      |      |
+|  <a href="https://www.acmicpc.net/problem/1260">1260</a>  | <a href="https://www.acmicpc.net/problem/1260" target="_blank">DFS와 BFS</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/>  |                    |      |      |      |      |
