@@ -1,7 +1,6 @@
 import java.io.BufferedReader;
 import java.io.FileInputStream;
 import java.io.InputStreamReader;
-import java.util.Stack;
 import java.util.StringTokenizer;
 
 
@@ -10,32 +9,31 @@ public class Main {
     static int len;
     static boolean[] visited;
     public static void main(String[] args) throws Exception {
-        //첫 번째 줄에 알파벳 대문자로 구성된 문자열이 주어진다. 문자열의 길이는 최대 100자이다.
         System.setIn(new FileInputStream("res/input.txt"));
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
         s = st.nextToken();
         len = s.length();
         visited = new boolean[len];
-
-        char c = 'Z';
-        int idx = 0;
-
-        for(int i=0;i<len;i++){
-            if(s.charAt(i)<c){
-                c = s.charAt(i);
-                idx = i;
-            }
-        }        
-        System.out.println(idx);
+        dfs(0, len);
     }
 
-    static void dfs(int idx){
-        Stack<Integer> stack = new Stack<>();
-        stack.push(idx);
-        while(!stack.isEmpty()){
-            int cur = stack.pop();
+    static void dfs(int start, int end){
+        if(start==end){return;}
+        char minChar = s.charAt(start);
+        int minIdx = start;
+        for(int i=start+1;i<end;i++){
+            if(s.charAt(i)<minChar){
+                minChar = s.charAt(i);
+                minIdx = i;
+            }
         }
-
+        visited[minIdx] = true;
+        for(int i=0;i<len;i++){
+            if(visited[i]){System.out.print(s.charAt(i));}
+        }
+        System.out.println();
+        dfs(minIdx+1,end);
+        dfs(start,minIdx);
     }
 }
