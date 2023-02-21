@@ -40,5 +40,5 @@
 
 |                         문제번호                          |                                  문제이름                                  |                                       난이도                                       |        정민        | 장호 | 태준 | 태성 | 상협 |
 | :-------------------------------------------------------: | :------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :----------------: | :--: | :--: | :--: | :--: |
-|  <a href="https://www.acmicpc.net/problem/7576">7576</a>  | <a href="https://www.acmicpc.net/problem/7576" target="_blank">토마토</a>  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |                    |      |      |      |      |
+|  <a href="https://www.acmicpc.net/problem/7576">7576</a>  | <a href="https://www.acmicpc.net/problem/7576" target="_blank">토마토</a>  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |                    |      |      |      | :heavy_check_mark: |
 | <a href="https://www.acmicpc.net/problem/16918">16918</a> | <a href="https://www.acmicpc.net/problem/16918" target="_blank">봄버맨</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | :heavy_check_mark: |      |      |      | :heavy_check_mark: |
