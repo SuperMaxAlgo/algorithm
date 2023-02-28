@@ -47,6 +47,6 @@
 
 |                         문제번호                          |                                  문제이름                                  |                                       난이도                                       |        정민        | 장호 | 태준 | 태성 | 상협 |
 | :-------------------------------------------------------: | :------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: | :----------------: | :--: | :--: | :--: | :--: |
-|  <a href="https://www.acmicpc.net/problem/11725">11725</a>  | <a href="https://www.acmicpc.net/problem/7576" target="_blank">트리의 부모 찾기</a>  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |      |      |      |      |      |
-| <a href="https://www.acmicpc.net/problem/1946">1946</a> | <a href="https://www.acmicpc.net/problem/16918" target="_blank">신입사원</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |      |      |      |      |      |
+|  <a href="https://www.acmicpc.net/problem/11725">11725</a>  | <a href="https://www.acmicpc.net/problem/11725" target="_blank">트리의 부모 찾기</a>  | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |      |      |      |      |      |
+| <a href="https://www.acmicpc.net/problem/1946">1946</a> | <a href="https://www.acmicpc.net/problem/1946" target="_blank">신입사원</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |      |      |      |      |      |
 
